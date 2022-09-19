@@ -1,0 +1,15 @@
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.csproj.AssemblyReference.cache
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.GeneratedMSBuildEditorConfig.editorconfig
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.AssemblyInfoInputs.cache
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.AssemblyInfo.cs
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.csproj.CoreCompileInputs.cache
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\bin\Debug\net6.0\CodeVULab1.exe
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\bin\Debug\net6.0\CodeVULab1.deps.json
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\bin\Debug\net6.0\CodeVULab1.runtimeconfig.json
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\bin\Debug\net6.0\CodeVULab1.dll
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\bin\Debug\net6.0\CodeVULab1.pdb
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.dll
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\refint\CodeVULab1.dll
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.pdb
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\CodeVULab1.genruntimeconfig.cache
+H:\CodeVULabAndHw1\CodeVULab1\CodeVULab1\obj\Debug\net6.0\ref\CodeVULab1.dll
