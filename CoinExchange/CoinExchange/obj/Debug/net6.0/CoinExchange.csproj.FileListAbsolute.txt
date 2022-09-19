@@ -1,0 +1,15 @@
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\bin\Debug\net6.0\CoinExchange.exe
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\bin\Debug\net6.0\CoinExchange.deps.json
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\bin\Debug\net6.0\CoinExchange.runtimeconfig.json
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\bin\Debug\net6.0\CoinExchange.dll
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\bin\Debug\net6.0\CoinExchange.pdb
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.csproj.AssemblyReference.cache
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.GeneratedMSBuildEditorConfig.editorconfig
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.AssemblyInfoInputs.cache
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.AssemblyInfo.cs
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.csproj.CoreCompileInputs.cache
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.dll
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\refint\CoinExchange.dll
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.pdb
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\CoinExchange.genruntimeconfig.cache
+H:\CodeVULabAndHw1\CoinExchange\CoinExchange\obj\Debug\net6.0\ref\CoinExchange.dll
